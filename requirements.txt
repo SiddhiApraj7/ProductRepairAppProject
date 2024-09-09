@@ -1,0 +1,6 @@
+streamlit
+openai
+unstructured
+langchain
+chromadb
+langchain-text-splitters
